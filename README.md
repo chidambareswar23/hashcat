@@ -1,3 +1,4 @@
+#hashcat
 Hashcat is a popular open-source password recovery tool that is used for advanced password cracking. It is designed to use brute-force and dictionary-based attacks to recover passwords from encrypted hashes. Hashcat supports various hashing algorithms and attack modes, making it a versatile tool for security professionals, penetration testers, and researchers.
 
 Here are some key features and aspects of Hashcat:
